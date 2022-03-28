@@ -285,6 +285,7 @@ footer {
   background: #3085a3;
   text-align: center;
   margin-top: 10px;
+  border: 4px solid black;
 }
 
 .grid figure img {
