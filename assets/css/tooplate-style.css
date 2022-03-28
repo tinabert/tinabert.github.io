@@ -198,7 +198,7 @@ h2{
 }
 
 .tm-barcode-box {
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   margin-left: 20px;
 }
 
@@ -216,7 +216,7 @@ h2{
 }
 footer {
   font-weight: 300;
-  margin-bottom: 30px;
+  margin-bottom: -30%;
   margin-left: 40px;
   font-size: 0.95rem;
   margin-right: 40px;
@@ -651,7 +651,7 @@ figure.effect-goliath:hover p {
   display: none;
 }
 
-@media (max-width: 1420px) {
+@media (max-width: 991px) {
   .tm-bottom-container {
     position: static;
   }
@@ -664,9 +664,6 @@ figure.effect-goliath:hover p {
   }
   #d-1,#d-2,#d-3,#d-4{
     font-size: 0.6em;
-  }
-  .tm-barcode-box{
-    margin-bottom:4%;
   }
 }
 
@@ -709,7 +706,7 @@ figure.effect-goliath:hover p {
 
 @media (max-width: 480px) {
   .grid {
-    max-width: 280px;
+    max-width: 220px;
   }
   #c-1,#c-2,#c-3,#c-4{
     font-size: 0.7em;
@@ -743,8 +740,8 @@ figure.effect-goliath:hover p {
   #code{
     width: 65%;
     font-size: 0.9em;
-    margin-left: 20%;
-    margin-top: -15%;
+    margin-left: 25%;
+    margin-top: -10%;
     text-align: center;
   }
 .tm-static {
