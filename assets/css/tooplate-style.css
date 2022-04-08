@@ -12,7 +12,7 @@
   src: url(/slick/fonts/EBGaramond-Regular.woff);
 }
 body {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "slick-1";
   font-size: 19px;
   color: #ffffff;
   overflow-x: hidden;
