@@ -433,7 +433,7 @@ figure.effect-goliath:hover p {
   max-width: 400px;
   margin-left: 40px;
   margin-right: auto;
-  margin-top: -70px;
+  margin-top: -65px;
 }
 
 .tm-contact-form {
@@ -817,4 +817,7 @@ margin-left: -2%;
 #myChart{
   height: 250px;
 }
+.tm-section-3{
+  margin-top:10%;
+  }
 }
