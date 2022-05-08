@@ -652,7 +652,7 @@ figure.effect-goliath:hover p {
     margin-left: 40%;
   }
   footer{
-    margin-bottom: 0%;
+    margin-bottom: -30%;
   }
 }
 @media (max-width: 991px) {
