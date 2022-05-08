@@ -26,7 +26,7 @@ h2{
 a {
   transition: all 0.2s;
   font-family: "slick-1";
-  color: #1342c2ea;
+  color: #0b2263ea;
   font-weight: bolder;
 }
 a:hover{
@@ -217,7 +217,7 @@ a:hover{
 footer {
   font-weight: 300;
   margin-left: 40px;
-  font-size: 0.95rem;
+  font-size: 1.2rem;
   margin-right: 40px;
   line-height: 2;
   background-color: #cf6ac7ad;
